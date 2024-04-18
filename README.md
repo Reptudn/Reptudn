@@ -6,7 +6,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reptudn&show_icons=true&locale=en" alt="reptudn" /></p>
 
-Totally not serious piece of code:
+<details>
+<summary>Totally not serious piece of code</summary>
+<br>
+  
 ```cs
 public class Woman implements Human {
 
@@ -64,3 +67,4 @@ public class Main {
   }
 }
 ```
+</details>
