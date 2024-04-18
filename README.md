@@ -6,11 +6,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reptudn&show_icons=true&locale=en" alt="reptudn" /></p>
 
+Totally not serious piece of code:
 ```cs
 public class Woman implements Human {
 
   unsigned int balance = 5312;
-  Man boyfriend = null;
+  Man boyfriend;
   bool isSimple;
   string name;
 
@@ -25,8 +26,8 @@ public class Woman implements Human {
 
 public class Man implements Human {
 
-  unsigned int balance 69420;
-  Woman girlfriend = null;
+  unsigned int balance = 69420;
+  Woman girlfriend;
   bool isSimple;  
   string name;
 
