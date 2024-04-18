@@ -11,9 +11,9 @@
 <br>
   
 ```cs
-public class Woman implements Human {
-
-  unsigned int balance = 5312;
+public class Woman : Human
+{
+  int balance = 5312;
   Man boyfriend;
   bool isSimple;
   string name;
@@ -27,9 +27,9 @@ public class Woman implements Human {
   }
 }
 
-public class Man implements Human {
-
-  unsigned int balance = 69420;
+public class Man : Human
+{
+  int balance = 69420;
   Woman girlfriend;
   bool isSimple;  
   string name;
