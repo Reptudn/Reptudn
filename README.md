@@ -44,7 +44,7 @@ public class Man implements Human {
   {
     if (Math.random() < 0.1) Talk(plsBeMyGfUwU); // Error: Man has no Function called Talk (Probably he is too scared to talk)
     else WalkAway();
-    throw new ScaryException(f"{this.name} is scared either way");
+    throw new ScaryException($"{this.name} is scared either way");
     plsBeMyGfUwU.GetBoyfriend(this); // Error: Unreachable Code detected!
   }
 
