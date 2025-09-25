@@ -1,4 +1,4 @@
-<h2 align="center">Yo 👋🏻, i'm Jonas Kauker</h2>
+<h2 align="center">Yo 👋🏻, I'm Jonas Kauker</h2>
 <h2 align="center">I'm a software developer and I just finished the Core-Curriculum at 42 Heilbronn</h2>
 <h3 align="center">Currently looking for Jobs</h3>
 
