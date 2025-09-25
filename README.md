@@ -1,11 +1,12 @@
 <h2 align="center">Yo 👋🏻, i'm Jonas Kauker</h2>
-<h2 align="center">I'm a software developer, currently doing the Core-Curriculum at 42 Heilbronn</h2>
+<h2 align="center">I'm a software developer and I just finished the Core-Curriculum at 42 Heilbronn</h2>
+<h3 align="center">Currently looking for Jobs</h3>
 
 ![](https://komarev.com/ghpvc/?username=reptudn)
 
-- 🔭 Currently working on a webserver in C++ written from scratch
+- 🔭 Currently working on an Fitness App for the 42 Open Project
 - 🚀 Proud member of the **CORE** Team
-- 🌱 I’m currently learning **C, C++, UNIX Systems**
+- 🌱 I’m currently learning **C, C++, UNIX Systems, Docker, JavaScript/TypeScript**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reptudn&show_icons=true&locale=en&layout=compact" alt="reptudn" /></p>
 
