@@ -4,9 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=reptudn)
 
-- 🔭 Currently working on an Fitness App for the 42 Open Project
-- 🚀 Proud member of the **CORE** Team
-- 🌱 I’m currently learning **C, C++, UNIX Systems, Docker, JavaScript/TypeScript**
+- 🌱 I’m currently working at STACKIT as a Cloud Engineer
+- 🌱 Currently learning **Go, Kubernetes, Terraform and other various Cloud related tools**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reptudn&show_icons=true&locale=en&layout=compact" alt="reptudn" /></p>
 
