@@ -1,5 +1,4 @@
 <h2 align="center">Yo 👋🏻, I'm Jonas Kauker</h2>
-<h2 align="center">I'm a cloud engineer @STACKIT</h2>
 <h3 align="center">Junior Cloud Engineer at STACKIT (Cloud Accellerator)</h3>
 
 ![](https://komarev.com/ghpvc/?username=reptudn)
